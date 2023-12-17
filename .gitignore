@@ -1,0 +1,5 @@
+.idea
+venv
+tests/allure-results
+allure
+tests/__init__.py
